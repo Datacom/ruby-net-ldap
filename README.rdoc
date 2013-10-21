@@ -1,3 +1,5 @@
+<b>Forked on Datacom account in order to tag it to a fixed point - Brad Murray</b>
+
 = Net::LDAP for Ruby {<img src="https://travis-ci.org/ruby-ldap/ruby-net-ldap.png" />}[https://travis-ci.org/ruby-ldap/ruby-net-ldap]
 
 == Description
