@@ -4,10 +4,9 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'net/ldap/version'
 
 Gem::Specification.new do |s|
-  s.name = %q{net-ldap}
+  s.name = %q{datacom-net-ldap}
   s.version = Net::LDAP::VERSION
 
-  s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Francis Cianfrocca", "Emiel van de Laar", "Rory O'Connell", "Kaspar Schiess", "Austin Ziegler"]
   s.date = %q{2012-02-28}
   s.description = %q{Net::LDAP for Ruby (also called net-ldap) implements client access for the
